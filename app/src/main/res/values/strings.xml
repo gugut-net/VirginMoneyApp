@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="title_people">People</string>
+    <string name="title_room">Room</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="item_name">Name</string>
+    <string name="item_title">Title</string>
+    <string name="item_created">Created</string>
+    <string name="item_email">Email</string>
+    <string name="room_information">Information from Room</string>
+    <string name="room_not_occupied">Room not occupied</string>
+    <string name="room_is_occupied">Room is occupied</string>
+</resources>
